@@ -4,6 +4,7 @@
 
   @include breakpoint(small) {
     $height: 320px;
+    background-image: url('../img/medium-top-bg.svg');
     color: $primary-color;
     height: $height;
     text-align: center;

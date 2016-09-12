@@ -2512,6 +2512,7 @@ kbd {
 .top {
   background-color: #151515;
   background-size: cover;
+  background-image: url("../img/medium-top-bg.svg");
   color: #17d000;
   height: 320px;
   text-align: center; }
