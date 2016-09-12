@@ -1,3 +1,12 @@
+h1,
+h2,
+h3,
+h4 {
+  @include breakpoint(small) {
+    text-align: center;
+  }
+}
+
 .top {
   background-color: $black;
   background-size: cover;

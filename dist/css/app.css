@@ -2527,6 +2527,12 @@ kbd {
 .long-delay {
   animation-delay: 700ms !important; }
 
+h1,
+h2,
+h3,
+h4 {
+  text-align: center; }
+
 .top {
   background-color: #151515;
   background-size: cover;
