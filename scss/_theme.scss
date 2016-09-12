@@ -64,6 +64,8 @@ p {
   h2 {
     color: $primary-color;
     font-weight: $global-weight-bold;
+    margin: rem-calc(20px) 0 rem-calc(40px);
+  }
 
   .update {
     margin: 0 0 rem-calc(50px);
