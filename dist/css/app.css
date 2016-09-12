@@ -2550,12 +2550,12 @@ kbd {
 
 .callout {
   text-align: center;
-  padding: 3.125rem 0; }
+  padding: 6.25rem 0; }
   @media screen and (min-width: 40em) {
     .callout {
-      padding: 6.25rem 0; } }
+      padding: 7.5rem 0; } }
   @media screen and (min-width: 64em) {
     .callout {
-      padding: 7.5rem 0; } }
+      padding: 9.375rem 0; } }
   .callout .large {
     font-size: 125%; }
