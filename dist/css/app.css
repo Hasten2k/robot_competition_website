@@ -2557,3 +2557,5 @@ kbd {
   @media screen and (min-width: 64em) {
     .callout {
       padding: 7.5rem 0; } }
+  .callout .large {
+    font-size: 125%; }
