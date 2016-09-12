@@ -2508,3 +2508,15 @@ kbd {
 
 .long-delay {
   animation-delay: 700ms !important; }
+
+.top {
+  background-color: #0a0a0a;
+  color: #17d000;
+  height: 320px;
+  text-align: center; }
+  @media screen and (min-width: 40em) {
+    .top {
+      height: 420px; } }
+  @media screen and (min-width: 64em) {
+    .top {
+      height: 500px; } }
