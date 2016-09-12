@@ -69,5 +69,8 @@ p {
     margin: 0 0 rem-calc(50px);
   }
 
+  .timestamp {
+    color: $gray;
+    line-height: $global-font-size;
   }
 }
