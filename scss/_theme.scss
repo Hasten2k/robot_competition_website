@@ -57,6 +57,7 @@ p {
 
   .large {
     font-size: $global-font-size * 1.25;
+    margin-bottom: 0;
   }
 }
 
@@ -64,7 +65,7 @@ p {
   h2 {
     color: $primary-color;
     font-weight: $global-weight-bold;
-    margin: rem-calc(20px) 0 rem-calc(40px);
+    margin: 0 0 rem-calc(40px);
   }
 
   .update {

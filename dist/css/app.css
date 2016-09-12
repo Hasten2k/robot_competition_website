@@ -2566,12 +2566,13 @@ p {
     .callout {
       padding: 9.375rem 0; } }
   .callout .large {
-    font-size: 125%; }
+    font-size: 125%;
+    margin-bottom: 0; }
 
 .updates h2 {
   color: #17d000;
   font-weight: bold;
-  margin: 1.25rem 0 2.5rem; }
+  margin: 0 0 2.5rem; }
 .updates .update {
   margin: 0 0 3.125rem; }
 .updates .timestamp {
