@@ -2541,6 +2541,7 @@ h4 {
   height: 320px;
   text-align: center; }
   .top h1 {
+    font-weight: bold;
     line-height: 320px; }
   @media screen and (min-width: 40em) {
     .top {
@@ -2565,3 +2566,7 @@ h4 {
       padding: 9.375rem 0; } }
   .callout .large {
     font-size: 125%; }
+
+.updates h2 {
+  color: #17d000;
+  font-weight: bold; }

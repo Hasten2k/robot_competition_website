@@ -19,6 +19,7 @@ h4 {
     text-align: center;
 
     h1 {
+      font-weight: $global-weight-bold;
       line-height: $height;
     }
   }
@@ -55,5 +56,12 @@ h4 {
 
   .large {
     font-size: $global-font-size * 1.25;
+  }
+}
+
+.updates {
+  h2 {
+    color: $primary-color;
+    font-weight: $global-weight-bold;
   }
 }
