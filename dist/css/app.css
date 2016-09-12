@@ -2514,9 +2514,15 @@ kbd {
   color: #17d000;
   height: 320px;
   text-align: center; }
+  .top h1 {
+    line-height: 320px; }
   @media screen and (min-width: 40em) {
     .top {
-      height: 420px; } }
+      height: 420px; }
+      .top h1 {
+        line-height: 420px; } }
   @media screen and (min-width: 64em) {
     .top {
-      height: 500px; } }
+      height: 500px; }
+      .top h1 {
+        line-height: 500px; } }

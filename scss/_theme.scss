@@ -1,14 +1,29 @@
 .top {
   @include breakpoint(small) {
+    $height: 320px;
     background-color: $black;
     color: $primary-color;
-    height: 320px;
+    height: $height;
     text-align: center;
+
+    h1 {
+      line-height: $height;
+    }
   }
   @include breakpoint(medium) {
-    height: 420px;
+    $height: 420px;
+    height: $height;
+
+    h1 {
+      line-height: $height;
+    }
   }
   @include breakpoint(large) {
-    height: 500px;
+    $height: 500px;
+    height: $height;
+
+    h1 {
+      line-height: $height;
+    }
   }
 }
