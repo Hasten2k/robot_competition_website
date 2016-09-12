@@ -30,3 +30,16 @@
     }
   }
 }
+
+.callout {
+  text-align: center;
+  @include breakpoint(small) {
+    padding: rem-calc(50px) 0;
+  }
+  @include breakpoint(medium) {
+    padding: rem-calc(100px) 0;
+  }
+  @include breakpoint(large) {
+    padding: rem-calc(120px) 0;
+  }
+}
