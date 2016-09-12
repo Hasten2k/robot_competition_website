@@ -4862,7 +4862,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "dist\/"
 	},
 "settingsFileVersion": "2"
 }
